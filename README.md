@@ -1,4 +1,4 @@
-# SocialMediaUsersAnalysis
+# Social Media Users Analysis
 
 - notebook with clustering algorithms realised with google colab : original and cleaned dataset refernces 
 - tableau data analysis (on the cleaned dataset including clusters labels)
